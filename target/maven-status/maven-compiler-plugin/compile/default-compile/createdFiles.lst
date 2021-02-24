@@ -1,0 +1,4 @@
+com\example\demo\dao\DemoObject.class
+com\example\demo\controller\DemoController.class
+com\example\demo\service\DemoService.class
+com\example\demo\DemoMainApplication.class
